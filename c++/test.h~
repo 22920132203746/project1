@@ -1,0 +1,8 @@
+#include <iostream>
+
+
+int TEST()
+{
+	cout<<"Test success";
+	return 0;
+}
